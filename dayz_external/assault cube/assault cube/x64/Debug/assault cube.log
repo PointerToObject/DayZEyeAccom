@@ -1,0 +1,6 @@
+﻿  ConsoleMenu.cpp
+C:\Users\aiden\OneDrive\Desktop\dayz_external\assault cube\assault cube\ConsoleMenu.h(94,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+C:\Users\aiden\OneDrive\Desktop\dayz_external\assault cube\assault cube\ConsoleMenu.h(94,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  assault cube.vcxproj -> C:\Users\aiden\OneDrive\Desktop\dayz_external\assault cube\x64\Debug\assault cube.exe
